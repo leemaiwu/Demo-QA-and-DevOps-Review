@@ -5,7 +5,7 @@ March 24, 2023
 Description:
     Email does not arrive within 30 seconds
 
-Steps to reproduc:
+Steps to reproduce:
     1. Login to a gmail account (specifically, collierjared@gmial.com)
 
     2. Login to another gmail account (specifically, jared.collier@devmountain.in)
@@ -24,4 +24,4 @@ Environment:
     - MacOS 13.2.1 (22D68)
 
 Attachments:
-    < video >
+    <video>

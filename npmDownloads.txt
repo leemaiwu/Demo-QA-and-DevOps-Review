@@ -1,3 +1,2 @@
 npm i
 npm i chromedriver@latest
-npm i jest@latest
