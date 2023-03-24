@@ -1,0 +1,23 @@
+TEST CASE 1 (under TEST PLAN 2)
+
+Description:
+    Inbox should receive (non-spam) email sent to my email address 
+    within 30 seconds
+
+Steps:
+    1. Identify two emails: email a, which must be a gmail. And emial 
+    b, which can have any email provider. Email b must not be an email 
+    that will be marked as spam.
+
+    2. Open up email a in the gmail app on a desktop browser, by opening 
+    a browswer and going to https://gmail.com.
+
+    3. Log in if necessary, with a valid username and passowrd. Main 
+    inbox must be showing when login complete.
+
+    4. Send an email from email b to email a using any method available.
+
+    5. Wait 30 seconds.
+
+Post conditions:
+    - A new email appears in email a's inbox that was sent from email b.

@@ -1,0 +1,22 @@
+TEST PLAN 2 for GMAIL WEBAPP
+
+Overview:
+    Test the main inbox's functionality
+
+Links: https://gmail.com
+
+Test Cirteria:
+    - Ensure that I can see all non-spam, new emails sent to me
+    - I should be able to click on an email and see it
+    - I should be able to search for words in emails
+
+Entry Criteria:
+    - Has access to internet
+    - Has a non-mobile browser available
+
+Exit Criteria:
+    - All tests pass
+
+Other details:
+    - This assumes a fast internet connection
+

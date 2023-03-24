@@ -1,0 +1,27 @@
+BUG REPORT for TEST CASE 1
+
+March 24, 2023
+
+Description:
+    Email does not arrive within 30 seconds
+
+Steps to reproduc:
+    1. Login to a gmail account (specifically, collierjared@gmial.com)
+
+    2. Login to another gmail account (specifically, jared.collier@devmountain.in)
+
+    3. With both logged-in screens in view, reate an email wiht a short subject and 
+       body, with the email from step 1 and send to the email from step 2
+
+Expected Result:
+    - The receiving gmail account receives the sent email within 30 seconds
+
+Actual Results:
+    - The receiving gmail account received the sent email in about 60 sendoncs
+
+Environment:
+    - Version 111.0.5563.64 (Official Build) (arm64)
+    - MacOS 13.2.1 (22D68)
+
+Attachments:
+    < video >
